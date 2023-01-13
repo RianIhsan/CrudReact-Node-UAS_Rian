@@ -1,0 +1,11 @@
+body, html {
+    height: 100%;
+}
+.bg {
+    background-image: url(https://img.freepik.com/free-vector/tiny-student-sitting-book-pile-reading-flat-illustration_74855-15547.jpg?w=740&t=st=1673363974~exp=1673364574~hmac=f7fb0171cf52d89b726c29da57cd519379b194a2dde66529998154ea4985b0a2);
+
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}

@@ -1,0 +1,29 @@
+GET http://localhost:5000/user
+
+###
+GET http://localhost:5000/user/1
+
+###
+POST http://localhost:5000/user
+Content-Type: application/json
+
+{
+    "nAnggota" : "Rian",
+    "kAnggota" : "AD001",
+    "tLahir"   : "28-09-2003",
+    "temLahir" : "Cianjur"
+}
+
+###
+PATCH  http://localhost:5000/user/7
+Content-Type: application/json
+
+{
+    "nAnggota" : "Edo",
+    "kAnggota" : "AD002",
+    "tLahir"   : "28-09-2002",
+    "temLahir" : "Bandung"
+}
+
+###
+DELETE http://localhost:5000/user/7

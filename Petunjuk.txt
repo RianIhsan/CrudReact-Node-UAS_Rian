@@ -1,0 +1,22 @@
+==== WEB APPLIACTION CREAT READ UPDATE DELETE ====
+Pemilik : Rian Ihsan Ardiansyah
+Kelas : TIF A2
+NIM : 41037006211122
+Prodi : Teknik Infromatika 
+Semester : 3
+
+
+Universitas Islam Nusantara
+==================================================
+Cara menjalankan Project ini : 
+1. Pastikan Device tersambung ke internet
+2. Buka PhpMyAdmin dan Import data base
+3. Install node modules disetiap directory dengan cara "npm install" di terminal
+4. Buka folder backend, lalu ketikan di terminal "npm install nodemon", jika sudah terinstall lalu jalan kan project dengan cara "nodemon index"
+5. Buka folder frontend, lalu ketika di terminal "npm start" tunggu sebentar, maka browser default akan terbuka otomatis menuju localhost 3000
+=================================================
+
+Stay learning and keep learning :D
+Happy Coding!
+
+=================================================
